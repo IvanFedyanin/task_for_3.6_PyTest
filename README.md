@@ -1,0 +1,1 @@
+# task_for_3.6_PyTest
